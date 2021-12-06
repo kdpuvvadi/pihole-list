@@ -1,0 +1,4 @@
+# Blocklist
+
+ww1.duckdns.com
+duckdns.com
