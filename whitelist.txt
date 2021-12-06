@@ -23,6 +23,7 @@ android.clients.google.com
 clients3.google.com 
 connectivitycheck.gstatic.com 
 appspot-preview.l.google.com
+s.youtube.com
 
 # Windows
 
@@ -53,6 +54,9 @@ dev.virtualearth.net
 ecn.dev.virtualearth.net 
 t0.ssl.ak.dynamic.tiles.virtualearth.net 
 t0.ssl.ak.tiles.virtualearth.net
+dl.delivery.mp.microsoft.com
+g.live.com
+clientconfig.passport.net
 
 
 # XBOX
@@ -79,10 +83,13 @@ def-vef.xboxlive.com
 notify.xboxlive.com 
 help.ui.xboxlive.com 
 licensing.xboxlive.com 
-eds.xboxlive.com www.xboxlive.com 
+eds.xboxlive.com 
+www.xboxlive.com 
 v10.vortex-win.data.microsoft.com 
 settings-win.data.microsoft.com
-msftncsi.com www.msftncsi.com ipv6.msftncsi.com
+msftncsi.com 
+ipv6.msftncsi.com
+v10.vortex-win.data.microsoft.com
 
 # Apple 
 
@@ -217,3 +224,13 @@ gravatar.com
 thetvdb.com
 themoviedb.com
 chtbl.com
+
+# Spotify 
+
+spclient.wg.spotify.com	
+apresolve.spotify.com
+api-tv.spotify.com	
+
+# Puvvadi.me
+
+*.puvvadi.me
