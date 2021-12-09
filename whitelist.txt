@@ -1,9 +1,3 @@
-# Title: Whitelist
-# Version: v0.1
-# Description: Whitelist to allow some of the services to work
-
-# Google 
-
 clients4.google.com 
 clients2.google.com
 s.youtube.com
@@ -24,9 +18,6 @@ clients3.google.com
 connectivitycheck.gstatic.com 
 appspot-preview.l.google.com
 s.youtube.com
-
-# Windows
-
 www.msftncsi.com
 outlook.office365.com 
 products.office.com 
@@ -48,7 +39,11 @@ pricelist.skype.com
 apps.skype.com 
 m.hotmail.com 
 sa.symcb.com 
-s{1..5}.symcb.com 
+s1.symcb.com
+s2.symcb.com
+s3.symcb.com
+s4.symcb.com
+s5.symcb.com
 officeclient.microsoft.com
 dev.virtualearth.net 
 ecn.dev.virtualearth.net 
@@ -57,10 +52,6 @@ t0.ssl.ak.tiles.virtualearth.net
 dl.delivery.mp.microsoft.com
 g.live.com
 clientconfig.passport.net
-
-
-# XBOX
-
 clientconfig.passport.net 
 v10.events.data.microsoft.com
 v20.events.data.microsoft.com
@@ -90,9 +81,6 @@ settings-win.data.microsoft.com
 msftncsi.com 
 ipv6.msftncsi.com
 v10.vortex-win.data.microsoft.com
-
-# Apple 
-
 itunes.apple.com
 s.mzstatic.com
 appleid.apple.com
@@ -102,9 +90,6 @@ captive.apple.com
 gsp1.apple.com 
 www.apple.com 
 www.appleiphonecell.com
-
-# Facebook
-
 upload.facebook.com 
 creative.ak.fbcdn.net 
 external-lhr0-1.xx.fbcdn.net 
@@ -149,43 +134,19 @@ web.facebook.com
 rupload.facebook.com
 wa.me
 www.wa.me
-
-# Dropbox
-
 dl.dropboxusercontent.com 
 ns1.dropbox.com 
 ns2.dropbox.com
-
-# Nvidia
-
 gfwsl.geforce.com
-
-# GTA
-
 prod.telemetry.ros.rockstargames.com
-
-# Epic Store
-
 tracking.epicgames.com
-
-# EA Sports
-
 cloudsync-prod.s3.amazonaws.com
-
-# Firefox tracking protection 
-
-tracking-protection.cdn.mozilla.net
-
-# Reddit
-
+racking-protection.cdn.mozilla.net
 styles.redditmedia.com
 www.redditstatic.com
 reddit.map.fastly.net
 www.redditmedia.com
 reddit-uploaded-media.s3-accelerate.amazonaws.com
-
-# Signal
-
 ud-chat.signal.org
 chat.signal.org
 storage.signal.org
@@ -202,35 +163,17 @@ cms.souqcdn.com
 api.directory.signal.org
 contentproxy.signal.org
 turn1.whispersystems.org
-
-# Twitter 
-
 twitter.com
 upload.twitter.com
 api.twitter.com
 mobile.twitter.com
-
-# Ola Money 
-
 logs.juspay.in
-
-# Godady
-
 imagesak.secureserver.net
-
-# Plex
-
 gravatar.com
 thetvdb.com
 themoviedb.com
 chtbl.com
-
-# Spotify 
-
-spclient.wg.spotify.com	
+spclient.wg.spotify.com
 apresolve.spotify.com
-api-tv.spotify.com	
-
-# Puvvadi.me
-
-*.puvvadi.me
+api-tv.spotify.com
+puvvadi.me
