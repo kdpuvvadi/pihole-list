@@ -177,3 +177,6 @@ spclient.wg.spotify.com
 apresolve.spotify.com
 api-tv.spotify.com
 puvvadi.me
+kd.puvvadi.me
+puvvadi.duckdns.org
+vm.puvvadi.me
