@@ -2,3 +2,12 @@
 
 0.0.0.0 ww1.duckdns.com
 0.0.0.0 duckdns.com
+0.0.0.0 baidu.com
+0.0.0.0 www.baidu.com
+0.0.0.0 cedock.com
+0.0.0.0 as-tvuser-tcl.cedock.com
+0.0.0.0 huan.tv
+0.0.0.0 as-api-upgrade-platform.huan.tv
+0.0.0.0 hwpreinstall-o.res.leiniao.com
+0.0.0.0 res.leiniao.com
+0.0.0.0 hwpreinstall-o.res.leiniao.com
