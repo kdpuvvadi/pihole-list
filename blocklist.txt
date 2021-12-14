@@ -1,4 +1,4 @@
 # Blocklist
 
-ww1.duckdns.com
-duckdns.com
+0.0.0.0 ww1.duckdns.com
+0.0.0.0 duckdns.com
