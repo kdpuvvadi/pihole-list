@@ -1,0 +1,4 @@
+# scammy sites
+
+0.0.0.0 infomoneynews.com
+0.0.0.0 jollytestpartying.com
