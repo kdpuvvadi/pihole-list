@@ -11,3 +11,5 @@
 0.0.0.0 hwpreinstall-o.res.leiniao.com
 0.0.0.0 res.leiniao.com
 0.0.0.0 hwpreinstall-o.res.leiniao.com
+0.0.0.0 tupaki.com
+0.0.0.0 www.tupaki.com
