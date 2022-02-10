@@ -1,5 +1,3 @@
-# Ransomware list
-# ------------------------------------[FILTERS]-------------------------------------
 0.0.0.0 25z5g623wpqpdwis.onion.to
 0.0.0.0 27c73bq66y4xqoh7.dorfact.at
 0.0.0.0 27lelchgcvs2wpm7.3lhjyx.top
