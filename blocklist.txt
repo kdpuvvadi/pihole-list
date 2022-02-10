@@ -13,3 +13,11 @@
 0.0.0.0 hwpreinstall-o.res.leiniao.com
 0.0.0.0 tupaki.com
 0.0.0.0 www.tupaki.com
+0.0.0.0 greatandhra.com
+0.0.0.0 telugu.greatandhra.com
+0.0.0.0 indianclicks.com
+0.0.0.0 www.indianclicks.com
+0.0.0.0 mobile.indianclicks.com
+0.0.0.0 movies.indianclicks.com
+0.0.0.0 mx.indianclicks.com
+0.0.0.0 w.indianclicks.com
