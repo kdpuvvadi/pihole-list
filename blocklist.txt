@@ -63,3 +63,17 @@
 0.0.0.0 us1-spiky.wzrkt.com
 0.0.0.0 resolver.msg.global.xiaomi.net
 0.0.0.0 resolver.msg.xiaomi.net
+0.0.0.0 api-bks.ad.intl.xiaomi.com
+0.0.0.0 api.ad.intl.xiaomi.com
+0.0.0.0 cc.ad.intl.xiaomi.com
+0.0.0.0 globalreport.ad.intl.xiaomi.com
+0.0.0.0 mbapi.ad.intl.xiaomi.com
+0.0.0.0 milink.ad.intl.xiaomi.com
+0.0.0.0 mosapi.ad.intl.xiaomi.com
+0.0.0.0 offline.ad.intl.xiaomi.com
+0.0.0.0 omad.ad.intl.xiaomi.com
+0.0.0.0 omserver.ad.intl.xiaomi.com
+0.0.0.0 sdkconfig.ad.intl.xiaomi.com
+0.0.0.0 sgpapi.ad.intl.xiaomi.com
+0.0.0.0 test.ad.intl.xiaomi.com
+0.0.0.0 zeus.ad.intl.xiaomi.com
