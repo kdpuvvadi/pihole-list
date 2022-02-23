@@ -61,3 +61,5 @@
 0.0.0.0 sk1-staging-9.wzrkt.com
 0.0.0.0 us1.wzrkt.com
 0.0.0.0 us1-spiky.wzrkt.com
+0.0.0.0 resolver.msg.global.xiaomi.net
+0.0.0.0 resolver.msg.xiaomi.net
