@@ -77,3 +77,7 @@
 0.0.0.0 sgpapi.ad.intl.xiaomi.com
 0.0.0.0 test.ad.intl.xiaomi.com
 0.0.0.0 zeus.ad.intl.xiaomi.com
+0.0.0.0 getsmartyapp.com
+0.0.0.0 www.getsmartyapp.com
+0.0.0.0 deeplookdoor.space
+0.0.0.0 www.deeplookdoor.space
