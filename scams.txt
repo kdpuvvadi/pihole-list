@@ -1,4 +1,6 @@
 
 0.0.0.0 infomoneynews.com
 0.0.0.0 jollytestpartying.com
-0.0.0.0 https://sibsibsibsib.000webhostapp.com
+0.0.0.0 sibsibsibsib.000webhostapp.com
+0.0.0.0 sixtually.com
+0.0.0.0 www.sixtually.com
