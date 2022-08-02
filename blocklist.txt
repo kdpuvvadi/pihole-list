@@ -81,3 +81,5 @@
 0.0.0.0 www.getsmartyapp.com
 0.0.0.0 deeplookdoor.space
 0.0.0.0 www.deeplookdoor.space
+0.0.0.0 echnol.com
+0.0.0.0 www.echnol.com
