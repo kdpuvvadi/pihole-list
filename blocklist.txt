@@ -89,3 +89,5 @@
 0.0.0.0 www.rajbet.com
 0.0.0.0 stage.rajbet.com
 0.0.0.0 fw.rajbet.com
+0.0.0.0 aspape.com
+0.0.0.0 www.aspape.com
