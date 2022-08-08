@@ -4,3 +4,9 @@
 0.0.0.0 sibsibsibsib.000webhostapp.com
 0.0.0.0 sixtually.com
 0.0.0.0 www.sixtually.com
+0.0.0.0 rajbet.com
+0.0.0.0 mgw1.rajbet.com
+0.0.0.0 mail.rajbet.com
+0.0.0.0 www.rajbet.com
+0.0.0.0 stage.rajbet.com
+0.0.0.0 fw.rajbet.com
