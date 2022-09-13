@@ -95,3 +95,4 @@
 0.0.0.0 limitationvolleyballdejected.com
 0.0.0.0 adpointrtb.com
 0.0.0.0 www.adpointrtb.com
+0.0.0.0 adclick.g.doubleclick.net
