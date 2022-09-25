@@ -99,3 +99,4 @@
 0.0.0.0 admin.kheloyar.club
 0.0.0.0 kheloyar.club
 0.0.0.0 www.kheloyar.club
+0.0.0.0 d3p8zr0ffa9t17.cloudfront.net
