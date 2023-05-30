@@ -102,3 +102,5 @@
 0.0.0.0 d3p8zr0ffa9t17.cloudfront.net
 0.0.0.0 idmb-app-chat-global-xiaomi-1108233833.ap-south-1.elb.amazonaws.com
 0.0.0.0 uptimecdn.com
+0.0.0.0 htmass.com
+0.0.0.0 www.htmass.com
