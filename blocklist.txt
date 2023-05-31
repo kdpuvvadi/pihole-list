@@ -104,3 +104,5 @@
 0.0.0.0 uptimecdn.com
 0.0.0.0 htmass.com
 0.0.0.0 www.htmass.com
+0.0.0.0 slumid.com
+0.0.0.0 www.slumid.com
