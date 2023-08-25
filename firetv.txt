@@ -1,0 +1,17 @@
+arcus-uswest.amazon.com
+avs-alexa-19-eu.amazon.com
+#ktpx-eu.amazon.com
+dcape-na.amazon.com
+#fireoscaptiveportal.com
+aviary.amazon.de
+api.eu.amazonalexa.com
+mas-ext-eu.amazon.com
+mads-eu.amazon.com
+dp-gw-na.amazon.com
+ftv-smtv.ntp-fireos.com
+#dp-discovery-na-ext.amazon.com
+aviary.amazon.com
+o2r2hew432.execute-api.us-east-1.amazonaws.com
+andr-25-aftkmst12-641002610.api.amazonvideo.com
+prod.amazoncrl.com
+arcus-uswest.amazon.com
