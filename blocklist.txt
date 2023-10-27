@@ -108,3 +108,5 @@
 0.0.0.0 www.slumid.com
 0.0.0.0 aspoutcanroy.top
 0.0.0.0 www.aspoutcanroy.top
+0.0.0.0 ordinarilyinstead.com
+0.0.0.0 www.ordinarilyinstead.com
