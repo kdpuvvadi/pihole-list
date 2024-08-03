@@ -108,4 +108,7 @@
 0.0.0.0 www.aspoutcanroy.top
 0.0.0.0 ordinarilyinstead.com
 0.0.0.0 www.ordinarilyinstead.com
-
+0.0.0.0 clobberprocurertightwad.com
+0.0.0.0 www.clobberprocurertightwad.com
+0.0.0.0 win.pm-bet.in
+0.0.0.0 pm-bet.in
