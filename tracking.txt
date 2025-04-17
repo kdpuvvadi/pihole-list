@@ -48,3 +48,6 @@ collector-001.eu01.nr-data.net
 mobile-crash-origin.eu01.nr-data.net
 collector-pool.migration.cell.nr-data.net
 61fc5e56-3eec-40c7-bdf9-a6736f39497c.aws-us-east-1.tracing.edge.nr-data.net
+sdk-05-sg.moengage.com
+sdk-100.moengage.com
+sdk-03.moengage.com
