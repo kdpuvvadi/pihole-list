@@ -28,3 +28,7 @@
 0.0.0.0 promote.mexc.com
 0.0.0.0 api.mexc.com
 0.0.0.0 wbs.mexc.com
+0.0.0.0 cdn.pmuls.com
+0.0.0.0 k3on.com
+0.0.0.0 my.tfxltd.com
+0.0.0.0 tfxltd.com
