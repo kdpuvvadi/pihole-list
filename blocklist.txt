@@ -112,3 +112,4 @@
 0.0.0.0 www.clobberprocurertightwad.com
 0.0.0.0 win.pm-bet.in
 0.0.0.0 pm-bet.in
+0.0.0.0 gatepass-corp.com
