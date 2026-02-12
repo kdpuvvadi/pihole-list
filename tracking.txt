@@ -52,3 +52,4 @@ sdk-05-sg.moengage.com
 sdk-100.moengage.com
 sdk-03.moengage.com
 bam.nr-data.net
+googletagmanager.com
